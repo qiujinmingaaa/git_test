@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f5bc056-3f57-476f-8b44-15e471ef4235" name="Default" comment="提交222">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/jin_war.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/jin_war_exploded.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+    <list default="true" id="0f5bc056-3f57-476f-8b44-15e471ef4235" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,8 +41,8 @@
       <file leaf-file-name="test02.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/test02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="275">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
                 <element signature="e#207#208#0" expanded="true" />
                 <element signature="e#248#249#0" expanded="true" />
@@ -163,6 +155,11 @@
             <path>
               <item name="git_tes" type="b2602c69:ProjectViewProjectNode" />
               <item name="git_tes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git_tes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git_tes" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="git_tes" type="b2602c69:ProjectViewProjectNode" />
@@ -313,7 +310,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572077976944</updated>
       <workItem from="1572077980714" duration="809000" />
-      <workItem from="1572079732255" duration="636000" />
+      <workItem from="1572079732255" duration="714000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1572078584280</created>
@@ -336,11 +333,18 @@
       <option name="project" value="LOCAL" />
       <updated>1572079981987</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="提交222">
+      <created>1572080377862</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572080377862</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1445000" />
+    <option name="totallyTimeSpent" value="1523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -429,8 +433,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="275">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
             <element signature="e#207#208#0" expanded="true" />
             <element signature="e#248#249#0" expanded="true" />
